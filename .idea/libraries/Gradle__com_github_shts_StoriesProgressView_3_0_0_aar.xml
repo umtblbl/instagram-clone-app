@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.shts:StoriesProgressView:3.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-StoriesProgressView-3.0.0.aar/83b1b129a77c158285928f322544858d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-StoriesProgressView-3.0.0.aar/83b1b129a77c158285928f322544858d/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.shts/StoriesProgressView/3.0.0/7c73b1d1374bb4bb6e5e7cf5c97379af4a607c73/StoriesProgressView-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
