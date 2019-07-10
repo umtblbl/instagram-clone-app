@@ -9,5 +9,3 @@ Eğitim serisine ilgili kanalın oynatma listelerinden ulaşabilirsiniz: https:/
 Model Sınıfları: User, Comment, Notification gibi işlemler için değişkenlerin tutulduğu sınıflar.
 
 Adapter Sınıfları: RecyclerView ile listeleme yapabilmek için tanımlanan adapterlerin bulunduğu sınıflar.
-
-Dependicies bölümünde, Jatpack bileşenleri için yeni Androidx kütüphanesi kullanılmıştır.
